@@ -45,7 +45,7 @@ namespace TinyLittleMvvm {
         /// <summary>
         /// The Autofac container used by the application.
         /// </summary>
-        protected internal static IContainer Container { get; private set; }
+        public static IContainer Container { get; private set; }
 
         /// <summary>
         /// This methods allows the inherited class to register her/his classes.
