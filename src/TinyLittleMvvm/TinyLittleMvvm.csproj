@@ -22,7 +22,7 @@
   <ItemGroup>
     <PackageReference Include="Autofac" Version="4.6.2" />
     <PackageReference Include="LibLog" Version="4.2.6" PrivateAssets="All" />
-    <PackageReference Include="MahApps.Metro" Version="1.5.0" />
+    <PackageReference Include="MahApps.Metro" Version="1.6.0" />
   </ItemGroup>
 
   <Import Project="$(CustomProjectExtensionsPath)CustomProject.props" />
